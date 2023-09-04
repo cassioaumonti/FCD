@@ -1,4 +1,4 @@
-# FDC
+# FCD
 Control queues in the forest transportation via fuzzy inference system.
 
 Order to use scripts:
